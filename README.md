@@ -1,4 +1,4 @@
-# wpalchemy - SQLAlchemy bindings for WordPress
+# wordpress-sqlalchemy - SQLAlchemy bindings for WordPress
 
 This is a set of SQLAlchemy bindings to the WordPress schema. There is both a
 table-level interface and a class-level (ORM) interface.
